@@ -1,0 +1,13 @@
+# ML framework
+torch
+
+# data handling
+numpy
+
+# plot/simulation
+matplotlib
+gym>=0.18
+gym[Box2D]
+
+# profiling
+wandb
